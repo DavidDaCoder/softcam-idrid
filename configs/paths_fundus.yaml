@@ -1,0 +1,18 @@
+# Paste over the 'Fundus' entry in configs/paths.yaml (then set base.dataset: Fundus)
+# Copy IDRiD_512/csv/* to <repo>/csv_files/IDRiD/ and the images folder to <root>/<data_dir>.
+Fundus:
+  dset_name: IDRiD_512
+  root: /path/to/data/IDRiD   # folder that holds images/ from prepare_idrid.py
+  data_dir: images
+  data_dir_slurm: images
+  target: "onset2"   # referable DR (grade >= 2)
+  fname: "filename"
+  train_csv: './csv_files/IDRiD/train.csv'
+  val_csv: './csv_files/IDRiD/val.csv'
+  test_csv: './csv_files/IDRiD/test.csv'
+  mean: [0.443955, 0.214802, 0.070703]   # train split, includes black padding
+  std: [0.300815, 0.162726, 0.083881]
+  num_classes: 2
+  binary: True
+  threshold: False
+  input_size: 512

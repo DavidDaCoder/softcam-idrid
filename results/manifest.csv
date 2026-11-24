@@ -1,0 +1,97 @@
+label,seed,pooling,conv_cls,timestamp
+Mean SC,0,mean,True,26-10-2026_01:36:04
+Top-k SC,0,topk,True,24-10-2026_06:27:36
+Black-box,0,mean,False,24-10-2026_06:32:01
+Mean SC,1,mean,True,26-10-2026_04:58:09
+Top-k SC,1,topk,True,26-10-2026_05:03:57
+Black-box,1,mean,False,26-10-2026_05:09:35
+Mean SC,2,mean,True,26-10-2026_05:15:18
+Top-k SC,2,topk,True,26-10-2026_05:21:06
+Black-box,2,mean,False,26-10-2026_05:26:48
+Mean SC,3,mean,True,26-10-2026_05:32:31
+Top-k SC,3,topk,True,26-10-2026_05:38:12
+Black-box,3,mean,False,26-10-2026_05:43:53
+Mean SC,4,mean,True,26-10-2026_05:49:33
+Top-k SC,4,topk,True,26-10-2026_05:55:15
+Black-box,4,mean,False,26-10-2026_06:00:53
+Multi SC,0,mean,True,26-10-2026_17:35:04
+Multi SC,1,mean,True,26-10-2026_17:40:47
+Multi SC,2,mean,True,26-10-2026_17:46:20
+Multi SC,3,mean,True,26-10-2026_17:51:58
+Multi SC,4,mean,True,26-10-2026_17:57:36
+S3 SC,0,mean,True,26-10-2026_20:06:52
+Multi SC s3-topk,0,mean,True,26-10-2026_20:12:15
+S3 SC,1,mean,True,26-10-2026_20:17:51
+Multi SC s3-topk,1,mean,True,26-10-2026_20:23:10
+S3 SC,2,mean,True,26-10-2026_20:28:51
+Multi SC s3-topk,2,mean,True,26-10-2026_20:34:07
+S3 SC,3,mean,True,26-10-2026_20:39:38
+Multi SC s3-topk,3,mean,True,26-10-2026_20:45:01
+S3 SC,4,mean,True,26-10-2026_20:50:39
+Multi SC s3-topk,4,mean,True,26-10-2026_20:55:56
+S3 SC topk,0,mean,True,27-10-2026_07:23:16
+Multi SC both-topk,0,mean,True,27-10-2026_07:28:38
+Multi SC s3-topk 1%,0,mean,True,27-10-2026_07:34:10
+Multi SC s3-topk 10%,0,mean,True,27-10-2026_07:39:43
+S3 SC topk,1,mean,True,27-10-2026_07:45:26
+Multi SC both-topk,1,mean,True,27-10-2026_07:50:43
+Multi SC s3-topk 1%,1,mean,True,27-10-2026_07:56:17
+Multi SC s3-topk 10%,1,mean,True,27-10-2026_08:01:49
+S3 SC topk,2,mean,True,27-10-2026_08:07:31
+Multi SC both-topk,2,mean,True,27-10-2026_08:12:49
+Multi SC s3-topk 1%,2,mean,True,27-10-2026_08:18:22
+Multi SC s3-topk 10%,2,mean,True,27-10-2026_08:24:06
+S3 SC topk,3,mean,True,27-10-2026_08:29:47
+Multi SC both-topk,3,mean,True,27-10-2026_08:35:11
+Multi SC s3-topk 1%,3,mean,True,27-10-2026_08:40:48
+Multi SC s3-topk 10%,3,mean,True,27-10-2026_08:46:26
+S3 SC topk,4,mean,True,27-10-2026_08:52:15
+Multi SC both-topk,4,mean,True,27-10-2026_08:57:35
+Multi SC s3-topk 1%,4,mean,True,27-10-2026_09:03:11
+Multi SC s3-topk 10%,4,mean,True,27-10-2026_09:08:43
+S3 SC topk,5,mean,True,27-10-2026_09:14:27
+Multi SC both-topk,5,mean,True,27-10-2026_09:19:49
+Multi SC s3-topk 1%,5,mean,True,27-10-2026_09:25:26
+Multi SC s3-topk 10%,5,mean,True,27-10-2026_09:31:04
+Mean SC,5,mean,True,27-10-2026_09:36:42
+Multi SC s3-topk,5,mean,True,27-10-2026_09:42:19
+S3 SC topk,6,mean,True,27-10-2026_09:47:58
+Multi SC both-topk,6,mean,True,27-10-2026_09:53:27
+Multi SC s3-topk 1%,6,mean,True,27-10-2026_09:59:09
+Multi SC s3-topk 10%,6,mean,True,27-10-2026_10:04:57
+Mean SC,6,mean,True,27-10-2026_10:10:40
+Multi SC s3-topk,6,mean,True,27-10-2026_10:16:20
+S3 SC topk,7,mean,True,27-10-2026_10:22:10
+Multi SC both-topk,7,mean,True,27-10-2026_10:27:32
+Multi SC s3-topk 1%,7,mean,True,27-10-2026_10:33:06
+Multi SC s3-topk 10%,7,mean,True,27-10-2026_10:38:48
+Mean SC,7,mean,True,27-10-2026_10:44:33
+Multi SC s3-topk,7,mean,True,27-10-2026_10:50:29
+S3 SC topk,8,mean,True,27-10-2026_10:56:16
+Multi SC both-topk,8,mean,True,27-10-2026_11:01:52
+Multi SC s3-topk 1%,8,mean,True,27-10-2026_11:07:45
+Multi SC s3-topk 10%,8,mean,True,27-10-2026_11:13:30
+Mean SC,8,mean,True,27-10-2026_11:19:18
+Multi SC s3-topk,8,mean,True,27-10-2026_11:25:17
+S3 SC topk,9,mean,True,27-10-2026_11:31:03
+Multi SC both-topk,9,mean,True,27-10-2026_11:36:23
+Multi SC s3-topk 1%,9,mean,True,27-10-2026_11:42:01
+Multi SC s3-topk 10%,9,mean,True,27-10-2026_11:47:38
+Mean SC,9,mean,True,27-10-2026_11:53:28
+Multi SC s3-topk,9,mean,True,27-10-2026_12:00:08
+Mean SC lr 0.0003,0,mean,True,07-11-2026_18:09:25
+Mean SC lr 0.003,0,mean,True,07-11-2026_18:15:19
+Mean SC lr 0.01,0,mean,True,07-11-2026_18:20:44
+Mean SC lr 0.0003,1,mean,True,07-11-2026_18:26:08
+Mean SC lr 0.003,1,mean,True,07-11-2026_18:31:54
+Mean SC lr 0.01,1,mean,True,07-11-2026_18:37:22
+Mean SC lr 0.0003,2,mean,True,07-11-2026_18:42:46
+Mean SC lr 0.003,2,mean,True,07-11-2026_18:48:34
+Mean SC lr 0.01,2,mean,True,07-11-2026_18:54:00
+Mean SC lr 0.01,3,mean,True,20-11-2026_17:23:09
+Mean SC lr 0.01,4,mean,True,20-11-2026_17:28:41
+Mean SC lr 0.01,5,mean,True,20-11-2026_17:34:05
+Mean SC lr 0.01,6,mean,True,20-11-2026_17:39:30
+Mean SC lr 0.01,7,mean,True,20-11-2026_17:44:58
+Mean SC lr 0.01,8,mean,True,20-11-2026_17:50:26
+Mean SC lr 0.01,9,mean,True,20-11-2026_17:55:51

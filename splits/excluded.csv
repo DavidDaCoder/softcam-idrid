@@ -1,0 +1,65 @@
+image,level,dme,reason
+B_train_IDRiD_012,3,2,also in Part A (A_train_IDRiD_53); held out for localization
+B_train_IDRiD_020,2,2,also in Part A (A_test_IDRiD_73); held out for localization
+B_train_IDRiD_021,1,0,"duplicate with conflicting grades (B_train_IDRiD_021, B_train_IDRiD_391)"
+B_train_IDRiD_027,4,2,also in Part A (A_test_IDRiD_67); held out for localization
+B_train_IDRiD_028,4,2,"duplicate with conflicting grades (B_train_IDRiD_028, B_train_IDRiD_327)"
+B_train_IDRiD_029,2,2,also in Part A (A_train_IDRiD_07); held out for localization
+B_train_IDRiD_045,2,0,"duplicate with conflicting grades (B_train_IDRiD_045, B_train_IDRiD_333)"
+B_train_IDRiD_048,2,2,also in Part A (A_train_IDRiD_50); held out for localization
+B_train_IDRiD_053,4,2,also in Part A (A_train_IDRiD_48); held out for localization
+B_train_IDRiD_057,3,2,also in Part A (A_test_IDRiD_77); held out for localization
+B_train_IDRiD_058,2,2,also in Part A (A_test_IDRiD_78); held out for localization
+B_train_IDRiD_059,2,2,also in Part A (A_test_IDRiD_63); held out for localization
+B_train_IDRiD_064,2,2,also in Part A (A_train_IDRiD_47); held out for localization
+B_train_IDRiD_066,3,2,also in Part A (A_test_IDRiD_71); held out for localization
+B_train_IDRiD_082,2,2,also in Part A (A_train_IDRiD_05); held out for localization
+B_train_IDRiD_102,2,2,also in Part A (A_train_IDRiD_01); held out for localization
+B_train_IDRiD_118,0,0,"duplicate of a test image (B_train_IDRiD_118, B_test_IDRiD_064)"
+B_train_IDRiD_128,2,2,also in Part A (A_test_IDRiD_59); held out for localization
+B_train_IDRiD_132,2,2,also in Part A (A_train_IDRiD_18); held out for localization
+B_train_IDRiD_185,2,2,also in Part A (A_train_IDRiD_38); held out for localization
+B_train_IDRiD_186,2,2,also in Part A (A_test_IDRiD_81); held out for localization
+B_train_IDRiD_196,2,2,also in Part A (A_train_IDRiD_06); held out for localization
+B_train_IDRiD_207,3,2,also in Part A (A_train_IDRiD_08); held out for localization
+B_train_IDRiD_224,4,2,also in Part A (A_train_IDRiD_10); held out for localization
+B_train_IDRiD_231,2,2,also in Part A (A_train_IDRiD_13); held out for localization
+B_train_IDRiD_232,2,2,also in Part A (A_train_IDRiD_14); held out for localization
+B_train_IDRiD_236,2,2,also in Part A (A_train_IDRiD_15); held out for localization
+B_train_IDRiD_237,2,2,also in Part A (A_train_IDRiD_16); held out for localization
+B_train_IDRiD_239,4,2,also in Part A (A_train_IDRiD_17); held out for localization
+B_train_IDRiD_242,2,2,also in Part A (A_train_IDRiD_19); held out for localization
+B_train_IDRiD_245,2,2,also in Part A (A_train_IDRiD_20); held out for localization
+B_train_IDRiD_246,4,2,also in Part A (A_train_IDRiD_21); held out for localization
+B_train_IDRiD_247,2,2,also in Part A (A_train_IDRiD_23); held out for localization
+B_train_IDRiD_248,2,2,also in Part A (A_train_IDRiD_24); held out for localization
+B_train_IDRiD_254,4,2,also in Part A (A_train_IDRiD_27); held out for localization
+B_train_IDRiD_261,2,2,also in Part A (A_train_IDRiD_28); held out for localization
+B_train_IDRiD_263,2,1,also in Part A (A_train_IDRiD_29); held out for localization
+B_train_IDRiD_272,4,2,also in Part A (A_train_IDRiD_33); held out for localization
+B_train_IDRiD_277,3,2,also in Part A (A_train_IDRiD_34); held out for localization
+B_train_IDRiD_278,3,2,also in Part A (A_train_IDRiD_35); held out for localization
+B_train_IDRiD_279,1,0,"duplicate, kept first copy (B_train_IDRiD_079, B_train_IDRiD_279)"
+B_train_IDRiD_280,2,2,also in Part A (A_train_IDRiD_36); held out for localization
+B_train_IDRiD_281,2,2,also in Part A (A_train_IDRiD_37); held out for localization
+B_train_IDRiD_282,2,1,also in Part A (A_train_IDRiD_40); held out for localization
+B_train_IDRiD_283,2,2,also in Part A (A_train_IDRiD_41); held out for localization
+B_train_IDRiD_284,2,2,also in Part A (A_train_IDRiD_42); held out for localization
+B_train_IDRiD_294,2,2,also in Part A (A_train_IDRiD_43); held out for localization
+B_train_IDRiD_300,2,2,also in Part A (A_train_IDRiD_44); held out for localization
+B_train_IDRiD_306,3,2,also in Part A (A_train_IDRiD_46); held out for localization
+B_train_IDRiD_308,3,2,also in Part A (A_train_IDRiD_49); held out for localization
+B_train_IDRiD_309,3,2,also in Part A (A_test_IDRiD_79); held out for localization
+B_train_IDRiD_310,2,2,also in Part A (A_train_IDRiD_51); held out for localization
+B_train_IDRiD_311,2,0,also in Part A (A_train_IDRiD_52); held out for localization
+B_train_IDRiD_313,4,2,also in Part A (A_test_IDRiD_76); held out for localization
+B_train_IDRiD_314,3,2,also in Part A (A_train_IDRiD_54); held out for localization
+B_train_IDRiD_327,3,2,"duplicate with conflicting grades (B_train_IDRiD_028, B_train_IDRiD_327)"
+B_train_IDRiD_328,2,2,also in Part A (A_test_IDRiD_72); held out for localization
+B_train_IDRiD_329,3,2,also in Part A (A_test_IDRiD_74); held out for localization
+B_train_IDRiD_333,2,1,"duplicate with conflicting grades (B_train_IDRiD_045, B_train_IDRiD_333)"
+B_train_IDRiD_356,3,2,also in Part A (A_test_IDRiD_58); held out for localization
+B_train_IDRiD_366,3,2,also in Part A (A_train_IDRiD_02); held out for localization
+B_train_IDRiD_369,3,2,also in Part A (A_train_IDRiD_03); held out for localization
+B_train_IDRiD_375,2,1,"duplicate, kept first copy (B_train_IDRiD_073, B_train_IDRiD_375)"
+B_train_IDRiD_391,2,0,"duplicate with conflicting grades (B_train_IDRiD_021, B_train_IDRiD_391)"
